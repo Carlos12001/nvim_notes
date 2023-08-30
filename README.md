@@ -9,7 +9,7 @@ ejemplos de código, configuraciones y prácticas mientras me familiarizo
 con Neovim. Además de ser un registro de mi proceso de aprendizaje, estos
 recursos me ayudarán a acelerar mi flujo de trabajo de desarrollo y a
 construir una base sólida para usar Neovim como mi editor de texto
-  principal.
+principal.
 
 Se divide en:
 
