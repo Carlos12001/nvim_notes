@@ -24,8 +24,8 @@ Se divide en:
 
 Mi objetivo es dominar Neovim hasta el punto de que pueda usarlo con confianza
 y rapidez para desarrollar aplicaciones, sin depender del mouse y utilizando
- eficientemente los atajos de teclado. Si bien aprender Neovim puede ser un desafío al principio, estoy seguro de que con el tiempo se sentirá cada vez más natural
-  y me permitirá desarrollar software de manera más eficaz.
+eficientemente los atajos de teclado. Si bien aprender Neovim puede ser un desafío al principio, estoy seguro de que con el tiempo se sentirá cada vez más natural
+y me permitirá desarrollar software de manera más eficaz.
 
 Por favor, ten en cuenta que este es un repositorio personal de aprendizaje
  y no tiene la intención de ser un curso completo sobre Neovim.
